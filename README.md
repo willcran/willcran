@@ -2,20 +2,28 @@
 
 I'm a student learning software development across multiple areas, including **JavaScript**/**HTML**/**CSS** for web development, **C** for low-level programming and **Kotlin** for Android development.
 
-<h3>Languages I Know:</h3>
-<p>
-    <a href="https://en.wikipedia.org/wiki/HTML5"> <img src="https://github.com/devster3000/assets-drive/blob/main/logos/programming-languages/html5-original.svg" alt="HTML5 Logo" width="50" height="50" /> </a>
-    <a href="https://en.wikipedia.org/wiki/CSS"> <img src="https://github.com/devster3000/assets-drive/blob/main/logos/programming-languages/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/> </a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://github.com/devster3000/assets-drive/blob/main/logos/programming-languages/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> </a>
-    <img src="https://github.com/devster3000/assets-drive/blob/main/other/page%20elements/v-divider.png" height="50"/>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://github.com/devster3000/assets-drive/blob/main/logos/programming-languages/c-original.png?raw=true" alt="C Logo" width="50" height="55"/> </a>
-    <img src="https://github.com/devster3000/assets-drive/blob/main/other/page%20elements/v-divider.png" height="50"/>
-    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src="https://github.com/devster3000/assets-drive/blob/main/logos/programming-languages/python-original.svg" alt="Python Logo" width="50" height="50"/> </a>
-    <img src="https://github.com/devster3000/assets-drive/blob/main/other/page%20elements/v-divider.png" height="50"/>
-    <a href="https://en.wikipedia.org/wiki/Kotlin"> <img src="https://github.com/devster3000/assets-drive/blob/main/logos/programming-languages/kotlin-original.svg" alt="Kotlin Logo" width="50" height="50"/> </a>
-</p>
+## Languages I Know
 
-<h3>Languages I am learning:</h3>
-<p>
-    I am not learning any languages rn because i am lazy
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+## Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Tools
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Learning
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=bash&logoColor=white)
